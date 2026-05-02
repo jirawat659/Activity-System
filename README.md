@@ -60,7 +60,7 @@ from initial proposal submission to final reporting and automated activity scori
 
 ### 1. Installation
 ```bash
-git clone https://github.com/kittiphongkubkub/activity-system.git
+git clone https://github.com/jirawat659/activity-system.git
 cd activity-system
 npm install
 ```
